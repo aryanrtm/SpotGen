@@ -1,0 +1,2 @@
+# SpotGen
+Spotify Account Generator
